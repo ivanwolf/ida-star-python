@@ -1,0 +1,1 @@
+Ejecutar `main.py -h`
